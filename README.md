@@ -6,7 +6,7 @@ Benvenuto nel mio repository di viaggio personale a Madrid! In questo documento,
 
 - **Luogo:** Madrid, Spagna
 - **Durata del viaggio:** 1 settimana
-- **Date del viaggio:** [Inserire le date del viaggio qui]
+- **Date del viaggio:** 05/08/23 - 12/08/23
 
 ## Descrizione del viaggio
 
