@@ -41,4 +41,3 @@ Di seguito troverai il mio itinerario di viaggio a Madrid:
 
 Questo repository è solo a scopo personale e potrebbe non essere utile o rilevante per altre persone. È stato creato per tenere traccia del mio viaggio e condividerlo con amici e familiari.
 
-Buon viaggio a me stesso e a chiunque legga questo repository! 🛫🌍🇪🇸
