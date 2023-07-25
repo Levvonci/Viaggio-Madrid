@@ -1,6 +1,6 @@
-## Itinerario
+# Itinerario
 
-Di seguito troverai il mio itinerario di viaggio a Madrid:
+## Di seguito troverai il mio itinerario di viaggio a Madrid:
 
 - **Giorno 1:** Arrivo a Madrid, check-in in hotel, esplorazione del centro storico e cena in un ristorante tipico spagnolo.
 
