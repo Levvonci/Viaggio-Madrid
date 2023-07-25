@@ -1,6 +1,7 @@
 # Valigia Stiva:
 
   **Peso massimo:** 10Kg
+  
   **Dimensione massima:** 55x40x20cm 
 
   ## Vestiario:
@@ -15,6 +16,7 @@
 # Bagaglio a mano:
   
   **Peso massimo:** ND
+  
   **Dimensione massima:** 40x20x25cm
   
   ## Oggetti:
