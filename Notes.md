@@ -6,11 +6,11 @@
 
 # TAPPE PERSONALI
 
-**- Hard Rock**
+- **Hard Rock**
 
-**- Negozio StreetWear**
+- **Negozio StreetWear**
 
 # COSTI 
 
-**- Abbonamento mezzi 7 giorni Zona A 35$**
+- **Abbonamento mezzi 7 giorni Zona A 35$**
 
