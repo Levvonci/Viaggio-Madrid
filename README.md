@@ -24,7 +24,7 @@ Di seguito troverai il mio itinerario di viaggio a Madrid:
 
 - **Giorno 4:** Escursione a Toledo, una città medievale affascinante e pittoresca.
 
-- **Giorno 5:** Escursione a Segovia per ammirare l'acquedotto romano e il maestoso Alcazar.
+- **Giorno 5:**  Visita al Templo de Debod, successivamente pranzo nel ristorante tipico Ojala, infine, una visita al mercato delle pulci El Rastro
 
 - **Giorno 6:** Tour gastronomico per assaggiare tapas tradizionali e altre specialità spagnole. Tempo libero per lo shopping nei quartieri di Salamanca o Chueca. Serata a Plaza de Santa Ana per l'ultima notte di divertimento.
 
