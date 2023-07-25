@@ -1,10 +1,9 @@
+# Valigia Stiva:
 
-Valigia Stiva:
+  **Peso massimo:** 10Kg
+  **Dimensione massima:** 55x40x20cm 
 
-  Peso massimo: 10Kg
-  Dimensione massima: 55x40x20cm 
-
-  Vestiario:
+  ## Vestiario:
 
     Totale magliette: 10
     Totale pantaloni: 3
@@ -13,23 +12,23 @@ Valigia Stiva:
     Totale scarpe: 1
     Totale cappelli: 1
 
-Bagaglio a mano:
+# Bagaglio a mano:
   
-  Peso massimo: ND
-  Dimensione massima: 40x20x25cm
+  **Peso massimo:** ND
+  **Dimensione massima:** 40x20x25cm
   
-  Oggetti:
+  ## Oggetti:
 
     Laptop
     Trasformatori
     Cavi di ricarica (Iphone - MBA - PowerBank)
 
-  Medicine:
+  ## Medicine:
 
     Tachipirina
     Aspirina
 
-  Corpo:
+  ## Corpo:
     
     Crema per capelli
 
