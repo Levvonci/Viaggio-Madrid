@@ -37,6 +37,11 @@ Di seguito troverai il mio itinerario di viaggio a Madrid:
 - Assaggiare tutte le prelibatezze culinarie spagnole, dai churros al paella, per apprezzare al massimo la cucina locale.
 - Essere attenti ai bagagli e fare sempre attenzione alle proprie cose durante gli spostamenti.
 
+## Link al Podcast di Odifreddi 
+
+In questo [Podcast](https://podcasters.spotify.com/pod/show/vito-rodolfo-albano7/episodes/La-matematica-6--Le-conquiste-degli-Arabi-e1tr3mb/a-a97coq0) Piergiorgio Odifreddi racconta delle piastrellature moresche legate alle conquiste matematiche degli arabi
+
+
 ## Disclaimer
 
 Questo repository è solo a scopo personale e potrebbe non essere utile o rilevante per altre persone. È stato creato per tenere traccia del mio viaggio e condividerlo con amici e familiari.
