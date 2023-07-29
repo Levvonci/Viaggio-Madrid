@@ -4,13 +4,23 @@
 
 - **Pullman n. 203 per Estacion De Atocha + Treno per Toledo**
 
-# TAPPE PERSONALI
+## TAPPE PERSONALI
 
 - **Hard Rock**
 
 - **Negozio StreetWear**
 
-# COSTI 
+## COSTI 
 
 - **Abbonamento mezzi 7 giorni Zona A 35$**
+
+## ACQUISTI
+
+- **Nike Dunk Low**
+
+- **Coltello Luca**
+
+- **Coltello Flavio**
+
+- **Qualcosa Monica**
 

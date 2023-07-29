@@ -32,5 +32,8 @@
 
   ## Corpo:
     
-    Crema per capelli
+    Crema per capelli (100ml in un recipiente adatto chiuso da una busta ermetica)
+
+    Rasoio Philips One Blade
+    
 
