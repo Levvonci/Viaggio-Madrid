@@ -24,7 +24,7 @@ Di seguito troverai il mio itinerario di viaggio a Madrid:
 
 - **Giorno 4:** Escursione a Toledo, una città medievale affascinante e pittoresca.
 
-- **Giorno 5:** Escursione a Segovia per ammirare l'acquedotto romano e il maestoso Alcazar.
+- **Giorno 5:**  Visita al Templo de Debod, successivamente pranzo nel ristorante tipico Ojala, infine, una visita al mercato delle pulci El Rastro
 
 - **Giorno 6:** Tour gastronomico per assaggiare tapas tradizionali e altre specialità spagnole. Tempo libero per lo shopping nei quartieri di Salamanca o Chueca. Serata a Plaza de Santa Ana per l'ultima notte di divertimento.
 
@@ -36,6 +36,11 @@ Di seguito troverai il mio itinerario di viaggio a Madrid:
 - Scattare molte foto per catturare i momenti indimenticabili di questa avventura.
 - Assaggiare tutte le prelibatezze culinarie spagnole, dai churros al paella, per apprezzare al massimo la cucina locale.
 - Essere attenti ai bagagli e fare sempre attenzione alle proprie cose durante gli spostamenti.
+
+## Link al Podcast di Odifreddi 
+
+In questo [Podcast](https://podcasters.spotify.com/pod/show/vito-rodolfo-albano7/episodes/La-matematica-6--Le-conquiste-degli-Arabi-e1tr3mb/a-a97coq0) Piergiorgio Odifreddi racconta delle piastrellature moresche legate alle conquiste matematiche degli arabi
+
 
 ## Disclaimer
 
