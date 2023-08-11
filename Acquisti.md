@@ -25,36 +25,36 @@
     
 ## Calamite:
         
-        - Giuseppe
-        - Flavio
-        - Mara 
-        - Elisabetta
-        - Andrea
-        - Luisa
-        - Angelina
-        - Enrico
-        - Annunziata 
-        - Claudia
-        - Fabio
-        - Antonella
+    - Giuseppe
+    - Flavio
+    - Mara 
+    - Elisabetta
+    - Andrea
+    - Luisa
+    - Angelina
+    - Enrico
+    - Annunziata 
+    - Claudia
+    - Fabio
+    - Antonella
     
 ## Ventaglio:
         
-        - Monica
+    - Monica
 
 ## Posacenere:
         
-        - Luca
-        - Francesca
+    - Luca
+    - Francesca
 
 ## Paperella:
 
-        - Matteo
-        - Gaia
+    - Matteo
+    - Gaia
 
 ## Portachiavi:
 
-        - Sara
-        - Michela
-        - Camilla 
-        - Marta
+    - Sara
+    - Michela
+    - Camilla 
+    - Marta
