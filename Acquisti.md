@@ -37,8 +37,6 @@
         - Claudia
         - Fabio
         - Antonella
-        - Camilla
-        - Marta
     
     ## Ventaglio:
         
@@ -58,3 +56,5 @@
 
         - Sara
         - Michela
+        - Camilla 
+        - Marta
