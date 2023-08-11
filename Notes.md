@@ -13,17 +13,3 @@
 ## COSTI 
 
 - **Abbonamento mezzi 7 giorni Zona A 35$**
-
-## ACQUISTI
-
-- **Nike Dunk Low**
-
-- **Coltello Luca**
-
-- **Coltello Flavio**
-
-- **Qualcosa Monica**
-
-- **Maglia Francesca**
-
-
