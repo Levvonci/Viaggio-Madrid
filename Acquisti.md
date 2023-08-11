@@ -23,7 +23,7 @@
 
 # Oggetti:
     
-    ## Calamite:
+## Calamite:
         
         - Giuseppe
         - Flavio
@@ -38,21 +38,21 @@
         - Fabio
         - Antonella
     
-    ## Ventaglio:
+## Ventaglio:
         
         - Monica
 
-    ## Posacenere:
+## Posacenere:
         
         - Luca
         - Francesca
 
-    ## Paperella:
+## Paperella:
 
         - Matteo
         - Gaia
 
-    ## Portachiavi:
+## Portachiavi:
 
         - Sara
         - Michela
