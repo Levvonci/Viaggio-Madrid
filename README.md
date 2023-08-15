@@ -46,3 +46,11 @@ In questo [Podcast](https://podcasters.spotify.com/pod/show/vito-rodolfo-albano7
 
 Questo repository è solo a scopo personale e potrebbe non essere utile o rilevante per altre persone. È stato creato per tenere traccia del mio viaggio e condividerlo con amici e familiari.
 
+## Pensieri Finali
+
+Madrid è una città divertente, ma non come avevo immaginato, sicuramente è stata una bella esperienza, non così ricca di contenuto, ma comunque è stato interessante approcciarsi a questa città in maniera turistica.
+Basandomi sulla mia personale esperienza, questa città è visitabile totalmente nel giro di 3 giorni escludendo completamente l'utilizzo dei mezzi pubblici per gli spostamenti.
+In conclusione, città piccola ma con un contenuto abbastanza importante.
+Chiudo qui la repository con questo commit :)
+
+
